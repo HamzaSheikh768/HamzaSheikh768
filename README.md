@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center"> 👋, I'm Sheikh Hamza</h1>
-<h3 align="center">A Passionate Fullstack Development, Agentic Developer From Pakistan</h3>
+<h3 align="center">A Passionate Fullstack Developer, Agentic Developer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzasheikh768&label=Profile%20views&color=0e75b6&style=flat" alt="hamzasheikh768" /> </p>
 
