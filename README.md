@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzasheikh768" alt="hamzasheikh768" /></a> </p>
 
-- 🌱 I’m currently learning **OpenAi Agent SDK, AgenticAI**
+- 🌱 I’m currently learning **AI DRIVEN DEVELOPMENT, AgenticAI**
 
 - 📫 How to reach me **developer4009example@gmail.com**
 
