@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Fullstack Developer, Agentic Developer From Pakistan</h3>
 
 # 💫 About Me:
-# I'm Sheikh Hamza 👋<br><br>I'm a passionate Full Stack Developer with a strong focus on building intelligent, autonomous systems.<br>I specialize in crafting seamless end-to-end web applications while pushing the boundaries of <br>AI-driven agentic solutions that think, plan, and act independently.<br><br>### 🛠️ Tech Stack<br><br>**Frontend:**  Next.js | Tailwind CSS  <br>**Backend:** Node.js | Python | FastAPI | TypeScript | JavaScript <br>**AI/Agents:** OpenAI Agents SDK | Anthropic Claude  <br>**Database:** Neon PostgreSQL | Supabase<br>**DevOps:** Docker | GitHub Actions | Vercel | Oracle | Dapr | Kafka
+### I'm Sheikh Hamza 👋<br><br>I'm a passionate Full Stack Developer with a strong focus on building intelligent, autonomous systems.<br>I specialize in crafting seamless end-to-end web applications while pushing the boundaries of <br>AI-driven agentic solutions that think, plan, and act independently.<br><br>### 🛠️ Tech Stack<br><br>**Frontend:**  Next.js | Tailwind CSS  <br>**Backend:** Node.js | Python | FastAPI | TypeScript | JavaScript <br>**AI/Agents:** OpenAI Agents SDK | Anthropic Claude  <br>**Database:** Neon PostgreSQL | Supabase<br>**DevOps:** Docker | GitHub Actions | Vercel | Oracle | Dapr | Kafka
 
 - ## 🌱 I’m currently learning **AI DRIVEN DEVELOPMENT (AIDD), AgenticAI**
 
